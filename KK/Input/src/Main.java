@@ -11,10 +11,12 @@ public class Main {
         System.out.println("You entered the string: " + userInputString);
 
         // Reading till the first space in the input
-        System.out.print("Please enter anything which contains a space:");
+        System.out.print("Please enter anything which contains a space: ");
         String userInput = input.next();
-        System.out.println("The first piece of the input is : " + userInput);
+        System.out.println("The first piece of the input is: " + userInput);
 
+        // Clear the buffer after using next()
+        input.nextLine();  // This clears the buffer and prevents the leftover input from interfering
 
         // Reading an integer input
         System.out.print("Please enter an integer: ");
