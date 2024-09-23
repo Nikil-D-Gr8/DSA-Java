@@ -58,7 +58,11 @@ public class FlowOfPrograms01 {
             num--;
         }
     }
-    public static void problem05( int )
+    public static void problem05()
+    {
+
+    }
+
 
     public static void main(String[] args) {
 //        problem01(2024);System.out.println();
