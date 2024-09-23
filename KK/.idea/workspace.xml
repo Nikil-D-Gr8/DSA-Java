@@ -5,30 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa9d5f59-e529-4307-93dd-0969facb30f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/KK.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/src/Intialising.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input/Input.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Print/Print.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Print/src/ConsolePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Striver/ArraysAndArrayList/ArraysAndArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Striver/Striver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java Kunal Kushwaha.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/DeclaringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/InitializingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/UtilityMethodsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PractiseProblems/PractiseProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PractiseProblems/src/FlowOfPrograms01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/DSA-Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01print/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01print/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01print/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01print/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01print/01print.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01print/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Input/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Input/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Input/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Input/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Input/02 Input.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Input/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/src/Intialising.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/Intialising.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +54,35 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ConsolePrint.executor": "Run",
+    "Application.DeclaringArray.executor": "Run",
+    "Application.FlowOfPrograms01.executor": "Run",
+    "Application.Initialising.executor": "Run",
+    "Application.InitialisingArray.executor": "Run",
+    "Application.InitializingArray.executor": "Debug",
     "Application.Intialising.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.UtilityMethodsArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/sniki/OneDrive/Desktop/code practise/DSA/DSA-Java/KK/PractiseProblems/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="DeclaringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeclaringArray" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeclaringArray" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
