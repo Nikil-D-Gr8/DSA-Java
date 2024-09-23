@@ -1,4 +1,5 @@
 import java.lang.Math;
+import java.util.Scanner;
 
 public class FlowOfPrograms01 {
     public static boolean problem01(int n)
@@ -60,6 +61,21 @@ public class FlowOfPrograms01 {
     }
     public static void problem05()
     {
+        int sum = 0;
+        while(true)
+        {
+            Scanner input = new Scanner(System.in);
+            String in = input.next();
+            if (in.equals("x"))
+            {
+                System.out.printf("The sum of numbers till now : %d ", sum);
+                break;
+            }
+            else {
+                sum = sum + Integer.parseInt(in);
+            }
+        }
+
 
     }
 
@@ -69,6 +85,6 @@ public class FlowOfPrograms01 {
 //        problem02(2000,24);System.out.println();
 //        problem03(30);System.out.println();
 //        problem04(30,40);System.out.println();
-        problem05();System.out.println();
+//        problem05();System.out.println();
     }
 }
