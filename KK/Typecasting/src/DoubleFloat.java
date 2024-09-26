@@ -23,8 +23,6 @@ public class DoubleFloat{
 //  the number is rounded to the closest representable with float hence the error in printing
         System.out.println(numb1);
         System.out.println(numb2);
-
-
     }
 
     public static void main(String[] args) {
