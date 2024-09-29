@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9d5f59-e529-4307-93dd-0969facb30f0" name="Changes" comment="feat: refractored all">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa9d5f59-e529-4307-93dd-0969facb30f0" name="Changes" comment="add:byte conversion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727375205281</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add:byte conversion">
+      <option name="closed" value="true" />
+      <created>1727460584423</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727460584423</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +167,7 @@
     <MESSAGE value="add : float, int and short added" />
     <MESSAGE value="add: other ds to short" />
     <MESSAGE value="feat: refractored all" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: refractored all" />
+    <MESSAGE value="add:byte conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:byte conversion" />
   </component>
 </project>
