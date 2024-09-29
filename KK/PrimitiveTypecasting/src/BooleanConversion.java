@@ -1,5 +1,5 @@
 public class BooleanConversion {
-
+//BOOLEAN CAN'T BE CONVERTED TO ANY OTHER DATATYPE,WE ARE JUST PLAYING AROUND HERE!
     static void boolean2int() {
         // Converting from boolean to int - true maps to 1, false maps to 0
         boolean bool1 = true;
