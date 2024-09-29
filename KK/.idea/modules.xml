@@ -6,8 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KK.iml" filepath="$PROJECT_DIR$/.idea/KK.iml" />
       <module fileurl="file://$PROJECT_DIR$/PractiseProblems/PractiseProblems.iml" filepath="$PROJECT_DIR$/PractiseProblems/PractiseProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveTypecasting/PrimitiveTypecasting.iml" filepath="$PROJECT_DIR$/PrimitiveTypecasting/PrimitiveTypecasting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Print/Print.iml" filepath="$PROJECT_DIR$/Print/Print.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Typecasting/Typecasting.iml" filepath="$PROJECT_DIR$/Typecasting/Typecasting.iml" />
     </modules>
   </component>
 </project>

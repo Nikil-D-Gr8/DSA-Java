@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9d5f59-e529-4307-93dd-0969facb30f0" name="Changes" comment="add:byte conversion" />
+    <list default="true" id="aa9d5f59-e529-4307-93dd-0969facb30f0" name="Changes" comment="add:primitive type casting">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727460584423</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add:primitive type casting">
+      <option name="closed" value="true" />
+      <created>1727633339175</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727633339175</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +179,7 @@
     <MESSAGE value="add: other ds to short" />
     <MESSAGE value="feat: refractored all" />
     <MESSAGE value="add:byte conversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="add:byte conversion" />
+    <MESSAGE value="add:primitive type casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:primitive type casting" />
   </component>
 </project>
