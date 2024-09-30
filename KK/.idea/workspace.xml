@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa9d5f59-e529-4307-93dd-0969facb30f0" name="Changes" comment="add:boolean conversion">
+    <list default="true" id="aa9d5f59-e529-4307-93dd-0969facb30f0" name="Changes" comment="add:boolean side note">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrimitiveTypecasting/src/BooleanConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrimitiveTypecasting/src/BooleanConversion.java" afterDir="false" />
     </list>
@@ -176,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727634372122</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add:boolean side note">
+      <option name="closed" value="true" />
+      <created>1727639091135</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727639091135</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +199,7 @@
     <MESSAGE value="add:byte conversion" />
     <MESSAGE value="add:primitive type casting" />
     <MESSAGE value="add:boolean conversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="add:boolean conversion" />
+    <MESSAGE value="add:boolean side note" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:boolean side note" />
   </component>
 </project>
